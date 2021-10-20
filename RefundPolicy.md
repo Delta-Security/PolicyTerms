@@ -22,13 +22,23 @@ DISCORD BOT HOSTING
     1) Upgrades and downgrades are offered but are non-refundable.
     2) The time frame for a refund is limited to 24 hours of receiving the product.
     
+WEBSITE HOSITNG
+
+    1) There are no upgrades or downgrades offered to this service.
+    2) The time frame for a refund is limited to 24 hours of receiving the product.
+    
+DEDICATED SERVERS
+
+    1) We will not do any sort of refund on these services.
+    2) Upgrades or downgrades are offered, but are limited from OVH Limited's upgrade and downgrade options.
+
 REFUND REQUESTS
 
-If you would like a refund for your service, please contact a manager. When requesting a refund, you must include the following:
+If you would like a refund for your service, please contact a manager. When requesting a refund, please include the following format:
 
-    Why are you requesting a refund for the service
-    Your billing account email
-    The service your wanting to request a refund for
+    Why are you requesting a refund for the service:
+    Your billing account email:
+    The service your wanting to request a refund for:
 
 
 **VOID**
