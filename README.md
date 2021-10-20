@@ -44,7 +44,7 @@ You agree to pay all charges at the prices then in effect for your purchases and
 
 **Refunds Policy**
 
-Please review our Return Policy posted [here[(https://github.com/Delta-Security/PolicyTerms/blob/main/RefundPolicy.md) prior to making any purchases.
+Please review our Return Policy posted [here](https://github.com/Delta-Security/PolicyTerms/blob/main/RefundPolicy.md) prior to making any purchases.
 
 **Prohibited Activities**
 
